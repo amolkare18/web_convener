@@ -1,0 +1,15 @@
+table{
+    border:2px solid black;
+    width:50%;
+    gap:40px;
+    position:relative;
+    top:200px;
+    left:340px;
+}
+td{
+    position:relative;
+    left:40px;
+}
+body{
+    background:#41B3A3;
+}

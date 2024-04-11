@@ -1,0 +1,36 @@
+form{
+    margin-left:600px;
+    margin-right:600px;
+    
+    display:grid;
+    gap:25px;
+    position: relative;
+    top:200px;
+    
+   
+  
+    
+}
+button{
+    width:100px;
+    border:2px solid black;
+    border-radius: 2rem;
+    position:relative;
+    left:70px;
+    background-color:#E27D60 ;
+
+}
+.name,
+.age,
+.email,
+.gender{
+border:2px solid black;
+border-radius: 0.5rem;
+}
+input{
+    background-color: #E8A87C;
+    color:black;
+}
+
+
+
